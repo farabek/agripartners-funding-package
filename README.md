@@ -26,9 +26,17 @@ Frozen release files must never be edited directly. Any future change requires a
 
 This root README is repository navigation metadata and is not part of the immutable v1.0 R1 release payload, Manifest, or payload checksum set.
 
-## Product Repository
+## Related Product Repository
 
-AgriPartners product source code is maintained separately in [`farabek/agripartners`](https://github.com/farabek/agripartners). This documentation repository must not contain or duplicate product source code.
+The AgriPartners platform source code is maintained separately:
+
+https://github.com/farabek/agripartners
+
+This repository contains the official Development Round Funding Package and related publication
+assets.
+
+Product implementation, backend, frontend, smart contracts, tests, and technical documentation
+are maintained in the product repository.
 
 ## Security
 
