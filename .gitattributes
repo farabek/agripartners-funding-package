@@ -1,0 +1,2 @@
+# Preserve every byte of frozen release artifacts in Git object storage.
+releases/v1.0-R1/** -text
