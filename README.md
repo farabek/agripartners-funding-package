@@ -7,6 +7,7 @@ Official public documentation repository for the **AgriPartners Development Roun
 | I want to... | Go to... |
 | --- | --- |
 | Review the official funding package | [Release navigation](#release-navigation) |
+| See who may fund each component and what is confirmed | Funding sources and status: [English](guides/FUNDING_SOURCES_AND_STATUS.md) · [Русский](guides/FUNDING_SOURCES_AND_STATUS_RU.md) |
 | Understand how the USD 40,000 Development Round is allocated | Budget explained: [English](guides/BUDGET_EXPLAINED.md) · [Русский](guides/BUDGET_EXPLAINED_RU.md) |
 | Understand company formation, legal, accounting, banking, and payment readiness costs | Corporate Setup budget: [English](guides/CORPORATE_SETUP_BUDGET.md) · [Русский](guides/CORPORATE_SETUP_BUDGET_RU.md) |
 | Understand the USD 50,000 Feedlot Pilot | Feedlot explained: [English](guides/FEEDLOT_PILOT_EXPLAINED.md) · [Русский](guides/FEEDLOT_PILOT_EXPLAINED_RU.md) |
@@ -27,6 +28,7 @@ Internal CRM, outreach pipelines, and operating records are maintained separatel
 
 ## Release Navigation
 
+- **Funding sources and current commitment status for all four components:** [English](guides/FUNDING_SOURCES_AND_STATUS.md) · [Русский](guides/FUNDING_SOURCES_AND_STATUS_RU.md)
 - **USD 40,000 Development Round — plain-language explanation:** [English](guides/BUDGET_EXPLAINED.md) · [Русский](guides/BUDGET_EXPLAINED_RU.md)
 - **AgriPartners OÜ formation and readiness costs:** [English](guides/CORPORATE_SETUP_BUDGET.md) · [Русский](guides/CORPORATE_SETUP_BUDGET_RU.md)
 - **USD 50,000 Feedlot/Fidlot Pilot:** [English](guides/FEEDLOT_PILOT_EXPLAINED.md) · [Русский](guides/FEEDLOT_PILOT_EXPLAINED_RU.md)

@@ -3,6 +3,7 @@
 Language: **English** · [Русский](CORPORATE_SETUP_BUDGET_RU.md) ·
 [USD 40,000 Development budget](BUDGET_EXPLAINED.md) ·
 [Feedlot Pilot](FEEDLOT_PILOT_EXPLAINED.md) · [Hissar Pilot](HISSAR_PILOT_EXPLAINED.md) ·
+[Funding sources and status](FUNDING_SOURCES_AND_STATUS.md) ·
 [Funding Package home](../README.md)
 
 **Planning date:** 3 September 2026  

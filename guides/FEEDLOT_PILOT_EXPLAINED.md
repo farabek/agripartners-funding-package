@@ -4,7 +4,8 @@ Language: **English** · [Русский](FEEDLOT_PILOT_EXPLAINED_RU.md) ·
 [Hissar Pilot](HISSAR_PILOT_EXPLAINED.md) · [Funding Package home](../README.md)
 
 Related components: [USD 40,000 Development budget](BUDGET_EXPLAINED.md) ·
-[Corporate Setup](CORPORATE_SETUP_BUDGET.md)
+[Corporate Setup](CORPORATE_SETUP_BUDGET.md) ·
+[Funding sources and status](FUNDING_SOURCES_AND_STATUS.md)
 
 **Model:** Feedlot/Fidlot v5.9  
 **Status:** illustrative Alpha v1.2 model; not a live investment, public offer, funding commitment, or guarantee.

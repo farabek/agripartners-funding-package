@@ -3,6 +3,7 @@
 Язык: [English](CORPORATE_SETUP_BUDGET.md) · **Русский** ·
 [Бюджет разработки USD 40 000](BUDGET_EXPLAINED_RU.md) ·
 [Feedlot Pilot](FEEDLOT_PILOT_EXPLAINED_RU.md) · [Hissar Pilot](HISSAR_PILOT_EXPLAINED_RU.md) ·
+[Источники и статус финансирования](FUNDING_SOURCES_AND_STATUS_RU.md) ·
 [Главная Funding Package](../README.md)
 
 **Дата оценки:** 3 сентября 2026 года  
