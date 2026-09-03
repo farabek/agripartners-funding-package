@@ -1,6 +1,6 @@
 # How the USD 40,000 Development Budget Works
 
-[Русская версия](BUDGET_EXPLAINED_RU.md) ·
+Language: **English** · [Русский](BUDGET_EXPLAINED_RU.md) ·
 [Official budget](../releases/v1.0-R1/Sections/10_Development_Budget.md) ·
 [Permitted use of funds](../releases/v1.0-R1/Sections/11_Use_of_Funds.md)
 
@@ -115,4 +115,3 @@ Package, the official v1.0 R1 sections control, especially:
 - [Section 10 — Development Budget](../releases/v1.0-R1/Sections/10_Development_Budget.md)
 - [Section 11 — Use of Funds](../releases/v1.0-R1/Sections/11_Use_of_Funds.md)
 - [Section 13 — Development Milestones](../releases/v1.0-R1/Sections/13_Development_Milestones.md)
-

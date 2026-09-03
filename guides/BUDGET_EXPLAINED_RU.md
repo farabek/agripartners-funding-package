@@ -1,6 +1,6 @@
 # Как устроен бюджет разработки USD 40 000
 
-[English version](BUDGET_EXPLAINED.md) ·
+Язык: [English](BUDGET_EXPLAINED.md) · **Русский** ·
 [Официальный бюджет](../releases/v1.0-R1/Sections/10_Development_Budget.md) ·
 [Разрешённое использование средств](../releases/v1.0-R1/Sections/11_Use_of_Funds.md)
 
@@ -116,4 +116,3 @@ deployment и доказательствами завершения. Резул�
 - [Section 10 — Development Budget](../releases/v1.0-R1/Sections/10_Development_Budget.md)
 - [Section 11 — Use of Funds](../releases/v1.0-R1/Sections/11_Use_of_Funds.md)
 - [Section 13 — Development Milestones](../releases/v1.0-R1/Sections/13_Development_Milestones.md)
-
