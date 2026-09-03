@@ -9,6 +9,8 @@ Official public documentation repository for the **AgriPartners Development Roun
 | Review the official funding package | [Release navigation](#release-navigation) |
 | Understand how the USD 40,000 Development Round is allocated | Budget explained: [English](guides/BUDGET_EXPLAINED.md) · [Русский](guides/BUDGET_EXPLAINED_RU.md) |
 | Understand company formation, legal, accounting, banking, and payment readiness costs | Corporate Setup budget: [English](guides/CORPORATE_SETUP_BUDGET.md) · [Русский](guides/CORPORATE_SETUP_BUDGET_RU.md) |
+| Understand the USD 50,000 Feedlot Pilot | Feedlot explained: [English](guides/FEEDLOT_PILOT_EXPLAINED.md) · [Русский](guides/FEEDLOT_PILOT_EXPLAINED_RU.md) |
+| Understand the USD 50,000 Hissar Sheep Pilot | Hissar explained: [English](guides/HISSAR_PILOT_EXPLAINED.md) · [Русский](guides/HISSAR_PILOT_EXPLAINED_RU.md) |
 | Use or evaluate the product | [Live AgriPartners Alpha](https://agripartners.vercel.app/#home) |
 | Review product code and technical documentation | [`farabek/agripartners`](https://github.com/farabek/agripartners) |
 | Understand the four-repository structure | [AgriPartners Ecosystem — Start Here](https://github.com/farabek/agripartners-ecosystem/blob/main/START_HERE.md) |
@@ -27,6 +29,8 @@ Internal CRM, outreach pipelines, and operating records are maintained separatel
 
 - **USD 40,000 Development Round — plain-language explanation:** [English](guides/BUDGET_EXPLAINED.md) · [Русский](guides/BUDGET_EXPLAINED_RU.md)
 - **AgriPartners OÜ formation and readiness costs:** [English](guides/CORPORATE_SETUP_BUDGET.md) · [Русский](guides/CORPORATE_SETUP_BUDGET_RU.md)
+- **USD 50,000 Feedlot/Fidlot Pilot:** [English](guides/FEEDLOT_PILOT_EXPLAINED.md) · [Русский](guides/FEEDLOT_PILOT_EXPLAINED_RU.md)
+- **USD 50,000 Hissar Sheep Pilot:** [English](guides/HISSAR_PILOT_EXPLAINED.md) · [Русский](guides/HISSAR_PILOT_EXPLAINED_RU.md)
 - [Documentation index](releases/v1.0-R1/INDEX.md)
 - [Master files](releases/v1.0-R1/Master/)
 - [Sections 1–21](releases/v1.0-R1/Sections/)
