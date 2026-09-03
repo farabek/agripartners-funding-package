@@ -2,6 +2,19 @@
 
 Official public documentation repository for the **AgriPartners Development Round Funding Package — Authoritative Master Edition**.
 
+## Find what you need
+
+| I want to... | Go to... |
+| --- | --- |
+| Review the official funding package | [Release navigation](#release-navigation) |
+| Use or evaluate the product | [Live AgriPartners Alpha](https://agripartners.vercel.app/#home) |
+| Review product code and technical documentation | [`farabek/agripartners`](https://github.com/farabek/agripartners) |
+| Understand the four-repository structure | [AgriPartners Ecosystem — Start Here](https://github.com/farabek/agripartners-ecosystem/blob/main/START_HERE.md) |
+| Report a security issue | [Security notice](repository/SECURITY.md) |
+
+Internal CRM, outreach pipelines, and operating records are maintained separately in the private
+`farabek/agripartners-hq` repository.
+
 - Current official release: **v1.0 R1**
 - Repository release status: **Canonical and Frozen**
 - Document publication status: preserved exactly in the approved release controls
