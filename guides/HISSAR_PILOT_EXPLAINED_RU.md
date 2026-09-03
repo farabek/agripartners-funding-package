@@ -4,7 +4,8 @@
 [Feedlot Pilot](FEEDLOT_PILOT_EXPLAINED_RU.md) · [Главная Funding Package](../README.md)
 
 Связанные компоненты: [бюджет разработки USD 40 000](BUDGET_EXPLAINED_RU.md) ·
-[создание компании](CORPORATE_SETUP_BUDGET_RU.md)
+[создание компании](CORPORATE_SETUP_BUDGET_RU.md) ·
+[источники и статус финансирования](FUNDING_SOURCES_AND_STATUS_RU.md)
 
 **Модель:** Hissar Sheep / VariantB v2.1  
 **Статус:** иллюстративная модель Alpha v1.2; не действующая инвестиция, не публичное предложение, не обязательство финансирования и не гарантия.

@@ -3,6 +3,7 @@
 Language: **English** · [Русский](BUDGET_EXPLAINED_RU.md) ·
 [Corporate Setup costs](CORPORATE_SETUP_BUDGET.md) ·
 [Feedlot Pilot](FEEDLOT_PILOT_EXPLAINED.md) · [Hissar Pilot](HISSAR_PILOT_EXPLAINED.md) ·
+[Funding sources and status](FUNDING_SOURCES_AND_STATUS.md) ·
 [Funding Package home](../README.md) ·
 [Official budget](../releases/v1.0-R1/Sections/10_Development_Budget.md) ·
 [Permitted use of funds](../releases/v1.0-R1/Sections/11_Use_of_Funds.md)
