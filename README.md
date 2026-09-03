@@ -7,6 +7,8 @@ Official public documentation repository for the **AgriPartners Development Roun
 | I want to... | Go to... |
 | --- | --- |
 | Review the official funding package | [Release navigation](#release-navigation) |
+| Understand how the USD 40,000 Development Round is allocated | Budget explained: [English](guides/BUDGET_EXPLAINED.md) · [Русский](guides/BUDGET_EXPLAINED_RU.md) |
+| Understand company formation, legal, accounting, banking, and payment readiness costs | Corporate Setup budget: [English](guides/CORPORATE_SETUP_BUDGET.md) · [Русский](guides/CORPORATE_SETUP_BUDGET_RU.md) |
 | Use or evaluate the product | [Live AgriPartners Alpha](https://agripartners.vercel.app/#home) |
 | Review product code and technical documentation | [`farabek/agripartners`](https://github.com/farabek/agripartners) |
 | Understand the four-repository structure | [AgriPartners Ecosystem — Start Here](https://github.com/farabek/agripartners-ecosystem/blob/main/START_HERE.md) |
@@ -23,8 +25,8 @@ Internal CRM, outreach pipelines, and operating records are maintained separatel
 
 ## Release Navigation
 
-- Budget explained: [English](guides/BUDGET_EXPLAINED.md) · [Русский](guides/BUDGET_EXPLAINED_RU.md)
-- Corporate Setup budget: [English](guides/CORPORATE_SETUP_BUDGET.md) · [Русский](guides/CORPORATE_SETUP_BUDGET_RU.md)
+- **USD 40,000 Development Round — plain-language explanation:** [English](guides/BUDGET_EXPLAINED.md) · [Русский](guides/BUDGET_EXPLAINED_RU.md)
+- **AgriPartners OÜ formation and readiness costs:** [English](guides/CORPORATE_SETUP_BUDGET.md) · [Русский](guides/CORPORATE_SETUP_BUDGET_RU.md)
 - [Documentation index](releases/v1.0-R1/INDEX.md)
 - [Master files](releases/v1.0-R1/Master/)
 - [Sections 1–21](releases/v1.0-R1/Sections/)

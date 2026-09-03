@@ -1,6 +1,8 @@
 # Как устроен бюджет разработки USD 40 000
 
 Язык: [English](BUDGET_EXPLAINED.md) · **Русский** ·
+[Расходы на создание компании](CORPORATE_SETUP_BUDGET_RU.md) ·
+[Главная Funding Package](../README.md) ·
 [Официальный бюджет](../releases/v1.0-R1/Sections/10_Development_Budget.md) ·
 [Разрешённое использование средств](../releases/v1.0-R1/Sections/11_Use_of_Funds.md)
 
