@@ -23,8 +23,7 @@ Internal CRM, outreach pipelines, and operating records are maintained separatel
 
 ## Release Navigation
 
-- [Plain-language USD 40,000 budget guide](guides/BUDGET_EXPLAINED.md)
-- [Простое объяснение бюджета USD 40 000](guides/BUDGET_EXPLAINED_RU.md)
+- Budget explained: [English](guides/BUDGET_EXPLAINED.md) · [Русский](guides/BUDGET_EXPLAINED_RU.md)
 - [Documentation index](releases/v1.0-R1/INDEX.md)
 - [Master files](releases/v1.0-R1/Master/)
 - [Sections 1–21](releases/v1.0-R1/Sections/)
