@@ -24,6 +24,7 @@ Internal CRM, outreach pipelines, and operating records are maintained separatel
 ## Release Navigation
 
 - Budget explained: [English](guides/BUDGET_EXPLAINED.md) · [Русский](guides/BUDGET_EXPLAINED_RU.md)
+- Corporate Setup budget: [English](guides/CORPORATE_SETUP_BUDGET.md) · [Русский](guides/CORPORATE_SETUP_BUDGET_RU.md)
 - [Documentation index](releases/v1.0-R1/INDEX.md)
 - [Master files](releases/v1.0-R1/Master/)
 - [Sections 1–21](releases/v1.0-R1/Sections/)
