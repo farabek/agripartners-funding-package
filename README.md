@@ -23,6 +23,8 @@ Internal CRM, outreach pipelines, and operating records are maintained separatel
 
 ## Release Navigation
 
+- [Plain-language USD 40,000 budget guide](guides/BUDGET_EXPLAINED.md)
+- [Простое объяснение бюджета USD 40 000](guides/BUDGET_EXPLAINED_RU.md)
 - [Documentation index](releases/v1.0-R1/INDEX.md)
 - [Master files](releases/v1.0-R1/Master/)
 - [Sections 1–21](releases/v1.0-R1/Sections/)
@@ -38,6 +40,9 @@ Internal CRM, outreach pipelines, and operating records are maintained separatel
 Frozen release files must never be edited directly. Any future change requires a new, formally identified release with its own validation evidence, Manifest, checksums, archive, and Git tag.
 
 This root README is repository navigation metadata and is not part of the immutable v1.0 R1 release payload, Manifest, or payload checksum set.
+
+The explanatory files under `guides/` are navigation aids and are also outside
+the immutable v1.0 R1 release payload. The frozen release remains authoritative.
 
 ## Related Product Repository
 
