@@ -1,6 +1,8 @@
 # AgriPartners OÜ Corporate Setup Budget
 
-Language: **English** · [Русский](CORPORATE_SETUP_BUDGET_RU.md)
+Language: **English** · [Русский](CORPORATE_SETUP_BUDGET_RU.md) ·
+[USD 40,000 Development budget](BUDGET_EXPLAINED.md) ·
+[Funding Package home](../README.md)
 
 **Planning date:** 3 September 2026  
 **Status:** explanatory planning estimate; not a funding commitment, supplier
@@ -134,4 +136,3 @@ an approved Corporate Setup amount:
 This guide does not amend those documents. Before spending or fundraising, each
 line requires an owner, provider scope, quotation, eligibility check, approval,
 and evidence of actual cost.
-

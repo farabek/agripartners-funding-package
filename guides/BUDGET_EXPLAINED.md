@@ -1,6 +1,8 @@
 # How the USD 40,000 Development Budget Works
 
 Language: **English** · [Русский](BUDGET_EXPLAINED_RU.md) ·
+[Corporate Setup costs](CORPORATE_SETUP_BUDGET.md) ·
+[Funding Package home](../README.md) ·
 [Official budget](../releases/v1.0-R1/Sections/10_Development_Budget.md) ·
 [Permitted use of funds](../releases/v1.0-R1/Sections/11_Use_of_Funds.md)
 
