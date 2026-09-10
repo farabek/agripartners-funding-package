@@ -3,7 +3,8 @@
 Language: **English** · [Русский](FUNDING_SOURCES_AND_STATUS_RU.md) ·
 [Funding Package home](../README.md)
 
-**Status date:** 3 September 2026  
+**Status date:** 10 September 2026
+
 **Current public status:** no funder, investor, grant, accelerator, or strategic partner is publicly confirmed for any component.
 
 ## The short answer
