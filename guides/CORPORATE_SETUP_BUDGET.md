@@ -31,6 +31,13 @@ and funding depend on the particular funder's requirements and written
 professional scopes and quotations. Basic incorporation alone does not mean
 readiness to receive funding or start either pilot.
 
+The internal **€3,000–5,000 Registration Gate** is a broader working allowance:
+it adds two-founder documents and payment-account/KYB preparation to the basic
+formation scope. It is an alternative scope for the first gate, **not a third
+payment** to add to €2,000–4,000 or €15,000–20,000. All three figures remain
+planning estimates until comparable written quotations and the funder's
+requirements establish an approved scope.
+
 ## Level 1 — basic OÜ and first-year administration
 
 The official Estonian e-Residency guidance currently presents these baseline
