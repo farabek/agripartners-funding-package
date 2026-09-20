@@ -16,7 +16,7 @@ approved or committed money.
 | Component | Target | Suitable funding-source categories | Current status |
 | --- | ---: | --- | --- |
 | Development Round | USD 40,000 | Technical/ecosystem grant, accelerator, venture studio, angel/pre-seed or strategic investor | **Seeking qualified source — not committed** |
-| Corporate Setup | First step: EUR 2,000–4,000 planning allowance; full Development Round readiness: EUR 15,000–20,000 total planning target, including the first step | Founder bridge, readiness/accelerator grant, angel/pre-seed or strategic investor, separately eligible part of a broader commitment | **Seeking qualified source — not committed** |
+| Corporate Setup | First step: EUR 2,000–4,000 planning allowance; full Development Round readiness: EUR 15,000–20,000 total planning target, including the first step | Readiness/accelerator grant, angel/pre-seed or strategic investor, legal/accounting cost-sharing, separately eligible part of a broader commitment | **Seeking qualified source — not committed** |
 | Feedlot Pilot | USD 50,000 | Project or impact investor, agricultural strategic partner, family office, approved operator co-investment | **Seeking qualified source — not committed** |
 | Hissar Sheep Pilot | USD 50,000 | Separate project or impact investor, agricultural strategic partner, family office, approved operator co-investment | **Seeking qualified source — not committed** |
 
@@ -55,7 +55,7 @@ Further preparation covers founder documents, agreements, accounting, KYB, banki
 and regulatory review, privacy, and funding administration. **EUR 15,000–20,000** is the planning
 target for Development Round readiness **in total, including the first step**, not an additional
 amount on top of EUR 2,000–4,000. Actual further costs and timing depend on funder requirements
-and written professional scopes and quotations. The component needs founder/unrestricted support
+and written professional scopes and quotations. The component needs unrestricted support
 or funding that expressly permits these costs. Restricted Development funds cannot be used unless
 the agreement separately authorizes them.
 
