@@ -23,6 +23,14 @@ There are three different cost levels:
 
 They must not be treated as the same level of readiness.
 
+**A smaller first step is possible:** the **€2,000–4,000** planning allowance
+covers only a basic OÜ and first-year administration. The **€15,000–20,000**
+planning target covers Development Round readiness **in total, including this
+first step**; it is not an additional payment after formation. Remaining work
+and funding depend on the particular funder's requirements and written
+professional scopes and quotations. Basic incorporation alone does not mean
+readiness to receive funding or start either pilot.
+
 ## Level 1 — basic OÜ and first-year administration
 
 The official Estonian e-Residency guidance currently presents these baseline
@@ -66,9 +74,10 @@ official tariffs or quotes:
 | Controlled contingency | €1,500–3,000 | Approved unexpected readiness work |
 | **Full planning range** | **€11,700–29,000** | Depends on scope, providers and due-diligence requirements |
 
-A practical initial planning target is **€15,000–20,000**, subject to written
-professional scopes and quotations. It is not a promise that every item in the
-full high-range scope can be completed within €20,000.
+A practical total planning target for this level is **€15,000–20,000**,
+including basic OÜ formation costs and subject to written professional scopes
+and quotations. It is not a promise that every item in the full high-range
+scope can be completed within €20,000.
 
 ## Level 3 — live investment and financial operations
 
@@ -115,7 +124,7 @@ do not assume eligibility or approval from a published price page.
 | Component | Purpose | Current planning amount |
 | --- | --- | ---: |
 | Development Round | Build and verify the Beta Candidate product milestone | USD 40,000 |
-| Corporate Setup | Create and prepare AgriPartners OÜ to receive development funding | Initial target €15,000–20,000 |
+| Corporate Setup | Basic OÜ first, then readiness to receive development funding | First step €2,000–4,000; total planning target €15,000–20,000, including the first step |
 | Feedlot Pilot | Separately controlled physical pilot capital | USD 50,000 |
 | Hissar Sheep Pilot | Separately controlled physical pilot capital | USD 50,000 |
 | Live regulated infrastructure | Defined only after legal classification | Early envelope €20,000–50,000+ |
@@ -138,3 +147,4 @@ an approved Corporate Setup amount:
 This guide does not amend those documents. Before spending or fundraising, each
 line requires an owner, provider scope, quotation, eligibility check, approval,
 and evidence of actual cost.
+

@@ -16,7 +16,7 @@ approved or committed money.
 | Component | Target | Suitable funding-source categories | Current status |
 | --- | ---: | --- | --- |
 | Development Round | USD 40,000 | Technical/ecosystem grant, accelerator, venture studio, angel/pre-seed or strategic investor | **Seeking qualified source — not committed** |
-| Corporate Setup | Initial target EUR 15,000–20,000 | Founder bridge, readiness/accelerator grant, angel/pre-seed or strategic investor, separately eligible part of a broader commitment | **Seeking qualified source — not committed** |
+| Corporate Setup | First step: EUR 2,000–4,000 planning allowance; full Development Round readiness: EUR 15,000–20,000 total planning target, including the first step | Founder bridge, readiness/accelerator grant, angel/pre-seed or strategic investor, separately eligible part of a broader commitment | **Seeking qualified source — not committed** |
 | Feedlot Pilot | USD 50,000 | Project or impact investor, agricultural strategic partner, family office, approved operator co-investment | **Seeking qualified source — not committed** |
 | Hissar Sheep Pilot | USD 50,000 | Separate project or impact investor, agricultural strategic partner, family office, approved operator co-investment | **Seeking qualified source — not committed** |
 
@@ -45,10 +45,17 @@ unchanged and separately accounted for.
 
 [See how the USD 40,000 budget works](BUDGET_EXPLAINED.md).
 
-### 2. Corporate Setup — initial target EUR 15,000–20,000
+### 2. Corporate Setup — basic OÜ first, then funding readiness
 
-This component prepares AgriPartners OÜ for agreements, accounting, KYB, banking/payments, legal
-and regulatory review, privacy, and funding administration. It needs founder/unrestricted support
+The first step can be planned separately: **EUR 2,000–4,000** for basic OÜ formation and first-year
+administration. This does not mean the company is ready to sign a funding agreement, pass KYB, or
+accept live investment; bank-account approval is not guaranteed.
+
+Further preparation covers founder documents, agreements, accounting, KYB, banking/payments, legal
+and regulatory review, privacy, and funding administration. **EUR 15,000–20,000** is the planning
+target for Development Round readiness **in total, including the first step**, not an additional
+amount on top of EUR 2,000–4,000. Actual further costs and timing depend on funder requirements
+and written professional scopes and quotations. The component needs founder/unrestricted support
 or funding that expressly permits these costs. Restricted Development funds cannot be used unless
 the agreement separately authorizes them.
 
@@ -97,3 +104,4 @@ operational, disclosure, and governance conditions are satisfied.
 This page must be updated when a component receives authoritative conditional, committed, or
 received status. Until then, every component remains **not committed**. This page is explanatory
 planning information, not an offer, solicitation, endorsement claim, or promise of funding.
+
